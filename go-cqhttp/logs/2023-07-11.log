@@ -1,0 +1,3 @@
+[2023-07-11 21:45:26] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-11 21:45:36] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-11 21:46:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57978->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
