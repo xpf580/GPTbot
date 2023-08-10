@@ -1,4 +1,4 @@
-GPTBOT
+#### GPT to QQ BOT ####
 
 ## 使用方法 ##
 
