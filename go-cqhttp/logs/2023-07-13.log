@@ -1,9 +1,0 @@
-[2023-07-13 18:26:44] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
-[2023-07-13 18:26:50] [WARNING]: Protocol -> device lock is disable. http api may fail. 
-[2023-07-13 18:26:54] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
-[2023-07-13 21:07:38] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
-[2023-07-13 21:07:39] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
-[2023-07-13 21:09:31] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
-[2023-07-13 21:09:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
-[2023-07-13 21:10:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
-[2023-07-13 21:10:39] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 

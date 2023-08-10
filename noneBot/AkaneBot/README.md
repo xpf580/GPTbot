@@ -1,3 +1,5 @@
+# AkaneBot
+
 ## How to start
 
 1. generate project using `nb create` .
@@ -7,5 +9,4 @@
 
 ## Documentation
 
-See [Docs](https://v2.nonebot.dev/)
-
+See [Docs](https://nonebot.dev/)
